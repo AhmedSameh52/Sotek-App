@@ -31,4 +31,4 @@ We welcome contributions to the Women's Rights App project. If you would like to
 
 
 ## Contact
-If you have any questions or comments about the Sotek - صوتك App App project, please contact us at <yousseytab1@gmail.com , salahgad26@gmail.com, mdamrk@gmail.com, ahmedelsherefy@gmail.com>.
+If you have any questions or comments about the Sotek - صوتك App App project, please contact us at <yousseytab1@gmail.com , salahgad26@gmail.com, mdamrak@gmail.com, ahmedelsherefy@gmail.com>.
