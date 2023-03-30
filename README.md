@@ -5,7 +5,7 @@ This is a Flutter project for an application that aims to reduce harassment towa
 Sotek - صوتك App is a mobile application designed to provide information and resources to women who are experiencing harassment, as well as those who are interested in learning more about women's rights.
 
 ## Features
-* A harassment reporting system that allows users to record and report incidents to their emergency contacts via an sms link containig the .
+* A harassment reporting system that allows users to record and report incidents to their emergency contacts via an sms containing the record link .
 * Article feed that directs the user to the most prominent and recent updates about harrasment and laws and protection methods.
 * A community page where users can share their experiences or ask questions so that they can help each other .
 * A user friendly interface with dark mode option.
